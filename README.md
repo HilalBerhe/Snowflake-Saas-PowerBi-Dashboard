@@ -2,7 +2,7 @@
 
 An Excel and Power BI portfolio project for Snowflake Inc. (`NYSE: SNOW`) covering historical financial performance, SaaS operating metrics, a four-year revenue forecast, profitability, scenario analysis, KPI reporting, and executive-level visualization.
 
-[Download the Excel model](SnowFlake%20Saas%20Operating%20Model.xlsx) | [View the Power BI dashboard (PDF)](Snowflake%20Power%20BI%20Dashboard.pdf)
+[Download the Excel model](SnowFlake%20Saas%20Operating%20Model.xlsx)
 
 ## Project overview
 
@@ -28,19 +28,19 @@ The Power BI report converts the operating model into a concise management view.
 
 The first page highlights the FY2027E outlook: **$5.82 billion of revenue**, **$803.7 million of operating income**, **$1.34 billion of free cash flow**, and a **13.8% operating margin**. It also compares FY2027E revenue across the downside, base, and upside cases and shows the total-revenue forecast through FY2030E.
 
-[![Snowflake Power BI executive overview](assets/power-bi/executive-overview.png)](assets/power-bi/executive-overview.png)
+[![Snowflake Power BI executive overview](Snow%20Flake%20Power%20Bi%20Part%201.png)](Snow%20Flake%20Power%20Bi%20Part%201.png)
 
 ### 2. Financial forecast
 
 The second page presents the FY2026A-FY2030E forecast in a management table and visualizes the path of revenue, operating income, and free cash flow. The model shows operating income turning positive in FY2027E and free cash flow reaching **$2.88 billion by FY2030E**.
 
-[![Snowflake Power BI financial forecast](assets/power-bi/financial-forecast.png)](assets/power-bi/financial-forecast.png)
+[![Snowflake Power BI financial forecast](Snow%20Flake%20Power%20Bi%20Part%202.png)](Snow%20Flake%20Power%20Bi%20Part%202.png)
 
 ### 3. SaaS metrics and scenario analysis
 
 The final page combines historical SaaS KPIs with forward-looking scenario results. Customers generating more than $1 million increase from **449 in FY2024A to 733 in FY2026A**, while the scenario comparison shows positive operating income and free cash flow in all three modeled cases.
 
-[![Snowflake Power BI SaaS metrics and scenario analysis](assets/power-bi/saas-metrics-scenarios.png)](assets/power-bi/saas-metrics-scenarios.png)
+[![Snowflake Power BI SaaS metrics and scenario analysis](Snow%20Flake%20Power%20Bi%20Part%203.png)](Snow%20Flake%20Power%20Bi%20Part%203.png)
 
 ## Workbook structure
 
@@ -192,7 +192,7 @@ Free Cash Flow = Total Revenue × Free-Cash-Flow Margin
 4. Adjust the margin and operating-expense assumptions in **Operating Model**.
 5. Change the downside, base, and upside drivers in **Scenario Analysis**.
 6. Review the linked outputs in **KPI Summary** and **Dashboard**.
-7. Open the [Power BI dashboard PDF](Snowflake%20Power%20BI%20Dashboard.pdf) to review the three-page management report.
+7. Review the three Power BI dashboard pages included above.
 
 The workbook uses orange section headers for navigation and blue font to identify key historical values and forecast assumptions. Linked model outputs are presented in black.
 
@@ -202,12 +202,9 @@ The workbook uses orange section headers for navigation and blue font to identif
 snowflake-saas-operating-model/
 ├── README.md
 ├── SnowFlake Saas Operating Model.xlsx
-├── Snowflake Power BI Dashboard.pdf
-├── assets/
-│   └── power-bi/
-│       ├── executive-overview.png
-│       ├── financial-forecast.png
-│       └── saas-metrics-scenarios.png
+├── Snow Flake Power Bi Part 1.png
+├── Snow Flake Power Bi Part 2.png
+├── Snow Flake Power Bi Part 3.png
 ├── Snowflake Historical Financials.png
 ├── Snowflake KPI Summary.png
 ├── Snowflake Operating model part 2.png
@@ -239,5 +236,5 @@ This Excel model and Power BI report are independent educational and portfolio p
 
 ## Author
 
-**Hilal Berhe**  
+**Hilal Berhe**
 [GitHub profile](https://github.com/HilalBerhe)
