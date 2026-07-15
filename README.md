@@ -2,8 +2,7 @@
 
 An Excel and Power BI portfolio project for Snowflake Inc. (`NYSE: SNOW`) covering historical financial performance, SaaS operating metrics, a four-year revenue forecast, profitability, scenario analysis, KPI reporting, and executive-level visualization.
 
-[Original Snowflake SaaS workbook on GitHub](https://github.com/HilalBerhe/snowflake-saas-operating-model) | [Download the Excel model](SnowFlake%20Saas%20Operating%20Model.xlsx)
-
+[Original Snowflake SaaS workbook on GitHub](https://github.com/HilalBerhe/snowflake-saas-operating-model) 
 > **Note:** All financial figures are in USD millions unless otherwise stated.
 
 ## Project overview
